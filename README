@@ -1,0 +1,46 @@
+## **Currency Converter – GUI Application Overview**  
+
+### **1. Objective:**  
+- Develop a GUI application to convert currency between countries.  
+
+---
+
+### **2. Technologies Used:**  
+- **Python** – Programming language.  
+- **Tkinter** – GUI library for building desktop applications.  
+- **JSON** – For handling data exchange.  
+
+---
+
+### **3. Key Features:**  
+- **Currency Selection** – Dropdown menus to select currencies.  
+- **Amount Input** – Users can enter the amount to convert.  
+- **Real-time Conversion** – Converts input amount to the selected currency.  
+- **Error Handling** – Displays message box for errors (e.g., no internet).  
+- **Simple Interface** – User-friendly and intuitive layout.  
+
+---
+
+### **4. GUI Elements:**  
+- **Title** – "MODERN CURRENCY CONVERTER" displayed at the top.  
+- **Input Field** – For entering the amount to convert.  
+- **Dropdown Menus** – To select currencies (from and to).  
+- **Convert Button** – Initiates the conversion process.  
+- **Result Display** – Shows the converted amount.  
+- **Footer** – Displays developer credit.  
+
+---
+
+### **5. Application Flow:**  
+1. **User selects** currencies from dropdown menus.  
+2. **Amount is entered** in the input field.  
+3. **Convert button** triggers the conversion process.  
+4. **Result** is displayed in a dedicated box.  
+5. If errors occur, **message box** provides feedback.  
+
+---
+
+### **6. Visual Layout:**  
+- Clear and structured layout.  
+- Labels and dropdowns guide users step by step.  
+- Output section shows conversion results.
